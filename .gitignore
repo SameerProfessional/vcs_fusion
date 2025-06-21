@@ -1,0 +1,25 @@
+# === Java and Maven ===
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+out/
+*.ipr
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Your custom VCS system ===
+/.vcsfusion/
+
+# === Logs or temp files ===
+*.log
+*.tmp
+
